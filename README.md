@@ -15,7 +15,6 @@ A robust, production-ready boilerplate for building scalable Node.js application
 - **Comprehensive project structure**
 - **ESLint & Prettier** for code quality
 - **Jest** for testing
-- **Docker** support
 - **Environment configuration**
 - **Logging** with Winston
 - **Middleware** for common web application needs
@@ -88,7 +87,7 @@ npm test
 yarn test
 ```
 
-## 🐳 Docker Support
+## 🐳 Docker Support (Coming soon)
 
 ### Build Docker Image
 
